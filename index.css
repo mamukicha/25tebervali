@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+.maro{
+    margin: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(182, 180, 61);
+    color: rgb(160, 30, 7);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.maro:hover{
+    width: 350px;
+    background-color: aqua;
+    transform:scale(1.15)
+
+}
+.click:active{
+    background-color: green;
+}
+body{
+    font-family: verdana;
+}*{
+    margin:0;
+    padding:0;
+}
+header,footer{
+    position: absolute;
+    background-color: red;
+    width:100%
+    
+}
+header h2{
+    position: absolute;
+    margin-top: 20px;
+}
+header{
+    height: 10vh;
+}
+footer{
+    height: 15vh
+}
+footer h2{
+    position: absolute;
+    margin-left: 36%;
+}
+.nav{
+    position: absolute;
+    width:100px;
+}
+.nav a{
+    position: relative;
+    left:45%;
+    margin-top: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+.gio{
+    margin: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(182, 180, 61);
+    color: rgb(160, 30, 7);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.gio:hover{
+    width: 350px;
+    background-color: aqua;
+    transform:scale(1.15)
+}
+.click:active{
+    background-color: green;
+}
+.giom{
+    margin: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(182, 180, 61);
+    color: rgb(160, 30, 7);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.giom:hover{
+    width: 350px;
+    background-color: aqua;
+    transform:scale(1.15)
+}
+.t{
+    margin: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(182, 180, 61);
+    color: rgb(160, 30, 7);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.t:hover{
+    width: 350px;
+    background-color: aqua;
+    transform:scale(1.15)
+}
+.qa{
+    color:rgb(221, 207, 240);
+    background-color: grey(255, 255, 255);
+}
+.mo{
+    color:rgb(221, 207, 240);
+    background-color: grey(255, 255, 255);
+}
+.g{
+    color:rgb(221, 207, 240);
+    background-color: grey(255, 255, 255);
+}
+.first{
+    color:rgb(121, 5, 5)
+}
+.second{
+    font-family: 'Odibee Sans', cursive;
+    font-size: 24px;
+    color:#5e0c0c;
+}
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+.we{
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(56, 99, 43);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.we:hover{
+    width: 150px;
+    background-color: rgb(214, 29, 29);
+    transform:scale(1.15)
+}
+.wo{
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(41, 44, 182);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.wo:hover{
+    width: 150px;
+    background-color: rgb(202, 49, 49);
+    transform:scale(1.15)
+}
+.que{
+    color:rgb(221, 207, 240);
+    background-color: grey(255, 255, 255);
+}
+
